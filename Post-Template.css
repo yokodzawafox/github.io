@@ -61,10 +61,19 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 656px;
+    min-height: 835px;
+  }
+
+  .u-section-1 .u-post-details-1 {
+    margin-bottom: -10px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 304px;
+    margin-top: 506px;
   }
 }
